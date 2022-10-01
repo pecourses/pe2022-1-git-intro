@@ -1,0 +1,12 @@
+coverage/
+
+tmp
+
+# VSCode config files
+.vscode/
+
+# Hidden files
+.*
+
+# Except .gitignore
+!.gitignore
